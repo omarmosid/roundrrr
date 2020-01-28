@@ -1,6 +1,6 @@
 {
   "name": "roundrrr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility library that lets you easily round a number",
   "main": "index.js",
   "scripts": {
